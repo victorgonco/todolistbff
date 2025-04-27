@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.goncodev</groupId>
-    <artifactId>todo-list-service</artifactId>
+    <artifactId>todo-list-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>todo-list-service</name>
+    <name>todo-list-api</name>
     <description>Bff for a todo-list application.</description>
     <url/>
     <licenses>
