@@ -31,7 +31,7 @@ public class TodoTaskController {
         this.mainService = mainService;
     }
 
-    @GetMapping("/list")
+    @GetMapping()
     public TodoTasksResponse findAll() {
         return mainService.readAll();
     }

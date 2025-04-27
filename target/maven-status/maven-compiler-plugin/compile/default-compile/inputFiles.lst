@@ -1,0 +1,10 @@
+/home/gonco/workspaces/java/todo-list-api/src/main/java/com/goncodev/todolistbff/TodoListApiApplication.java
+/home/gonco/workspaces/java/todo-list-api/src/main/java/com/goncodev/todolistbff/controllers/TodoTaskController.java
+/home/gonco/workspaces/java/todo-list-api/src/main/java/com/goncodev/todolistbff/dtos/TodoTaskDTO.java
+/home/gonco/workspaces/java/todo-list-api/src/main/java/com/goncodev/todolistbff/dtos/mappers/TodoTaskDTOMapper.java
+/home/gonco/workspaces/java/todo-list-api/src/main/java/com/goncodev/todolistbff/dtos/request/TodoTaskAddRequest.java
+/home/gonco/workspaces/java/todo-list-api/src/main/java/com/goncodev/todolistbff/dtos/request/TodoTaskEditRequest.java
+/home/gonco/workspaces/java/todo-list-api/src/main/java/com/goncodev/todolistbff/dtos/response/TodoTasksResponse.java
+/home/gonco/workspaces/java/todo-list-api/src/main/java/com/goncodev/todolistbff/repositories/TodoTaskRepository.java
+/home/gonco/workspaces/java/todo-list-api/src/main/java/com/goncodev/todolistbff/repositories/entities/TodoTask.java
+/home/gonco/workspaces/java/todo-list-api/src/main/java/com/goncodev/todolistbff/services/MainService.java
