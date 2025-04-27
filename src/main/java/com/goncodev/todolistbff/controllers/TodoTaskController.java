@@ -23,11 +23,11 @@ import java.util.NoSuchElementException;
 @RestController
 @RequestMapping("/todo")
 @Validated
-public class MainController {
+public class TodoTaskController {
 
     private final MainService mainService;
 
-    public MainController(MainService mainService) {
+    public TodoTaskController(MainService mainService) {
         this.mainService = mainService;
     }
 

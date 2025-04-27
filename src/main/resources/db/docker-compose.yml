@@ -1,6 +1,7 @@
 services:
 
   db:
+    container_name: postgres-todo-list-db
     image: postgres
     restart: always
     ports:
